@@ -38,6 +38,8 @@ p {
 	letter-spacing: 10px;
 }
 
+/* Slide show divs  */
+
 .model-y {
 	height: 100%;
 	background:  url("https://tesla-cdn.thron.com/delivery/public/image/tesla/8e2df1b9-a4bf-4eb9-beec-2cf5cc77fca0/bvlatuR/std/2880x2400/Desktop-ModelY");
@@ -102,6 +104,8 @@ p {
 }
 
 
+
+/* Add cropped images under 1280px viewport (mobile responsive) */
 
 
 @media (max-width:  1280px) {
